@@ -1,0 +1,29 @@
+_repo: The-Bracelets--13-Or-Amiability-and-Industry-Rewarded_11121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: "The Bracelets\r\nOr, Amiability and Industry Rewarded"
+url: http://www.gutenberg.org/ebooks/11121
